@@ -49,7 +49,7 @@ You create 3D meshes in tools called mesh editors, e.g in Blender. The jMonkeyEn
 
 == Materials: Color, Lighting/Shading
 
-What we call “color is merely part of an object's light reflection. The onlooker's brain uses shading and reflecting properties to infer an object's shape and material. Factors like these make all the difference between chalk vs milk, skin vs paper, water vs plastic, etc! (link:http://www.shaders.org/ifw2_textures/whatsin10.htm[External examples])
+What we call "color" is merely part of an object's light reflection. The onlooker's brain uses shading and reflecting properties to infer an object's shape and material. Factors like these make all the difference between chalk vs milk, skin vs paper, water vs plastic, etc! (link:http://www.shaders.org/ifw2_textures/whatsin10.htm[External examples])
 
 
 === Color
