@@ -97,7 +97,7 @@ What we call “color is merely part of an object's light reflection. The onlook
 *  Non-shiny objects have a black specular color.
 
 
-image::http://wiki.jmonkeyengine.org/lib/exe/fetch.php/jme3:tanlglow2.png[tanlglow2.png,with="400",height="234",align="center"]
+image::http://wiki.jmonkeyengine.org/jme3/tanlglow2.png[tanlglow2.png,with="400",height="234",align="center"]
 
 
 
